@@ -5,6 +5,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  overflow: hidden;
 }
 
 section{
@@ -228,8 +229,4 @@ header .logo{
   .content .info p{
     font-size: 14px;
   }
-}
-
-body{
-  overflow: hidden;
 }
